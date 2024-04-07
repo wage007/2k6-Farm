@@ -21,7 +21,7 @@ This is an auto farmer for da hood, it is opened source. If you decide to skid, 
 
 
 # LOADER BELOW
--
+
 _G.AutofarmSettings = {
     ["AttackMode"] = "3", -- 1 - Fast Punch | 2 - Super Punch | 3 - Knife (PROB THE FASTEST).
 
